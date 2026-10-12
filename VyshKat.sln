@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1FFF7D32-0380-46EF-B1C8-4F729AA05844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VyshKat", "src\VyshKat\VyshKat.csproj", "{166E7613-F0DC-4429-8ACD-7A5621FEB9F5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{03D35A14-1981-456E-82A9-846F5B9B3FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VyshKat.Tests", "tests\VyshKat.Tests\VyshKat.Tests.csproj", "{1419F55B-CB30-4180-82B2-065C99CC197B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{166E7613-F0DC-4429-8ACD-7A5621FEB9F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166E7613-F0DC-4429-8ACD-7A5621FEB9F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166E7613-F0DC-4429-8ACD-7A5621FEB9F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166E7613-F0DC-4429-8ACD-7A5621FEB9F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1419F55B-CB30-4180-82B2-065C99CC197B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1419F55B-CB30-4180-82B2-065C99CC197B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1419F55B-CB30-4180-82B2-065C99CC197B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1419F55B-CB30-4180-82B2-065C99CC197B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{166E7613-F0DC-4429-8ACD-7A5621FEB9F5} = {1FFF7D32-0380-46EF-B1C8-4F729AA05844}
+		{1419F55B-CB30-4180-82B2-065C99CC197B} = {03D35A14-1981-456E-82A9-846F5B9B3FB1}
+	EndGlobalSection
+EndGlobal
