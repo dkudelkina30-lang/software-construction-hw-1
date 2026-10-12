@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a0tBkBPpTZQ8F1ybcShjKXxITJ+HBYZw5eZIvXzgL90AYE5ndEgP9w7a/mZj+R2h+7KPX0inU8mZ5CQDI0WMxA==",
+  "success": true,
+  "projectFilePath": "/home/darya/hse/software-construction-hw-1/src/VyshKat/VyshKat.csproj",
+  "expectedPackageFiles": [
+    "/home/darya/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/home/darya/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
